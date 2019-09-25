@@ -47,6 +47,8 @@ void World::drawMaze()
 	System::clear();
 
 	//TODO: -draw the maze: walls and each of the cells
+	// Dibujar cada casilla
+
 
 
 	//we sleep for a while
